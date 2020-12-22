@@ -3,6 +3,9 @@ venv/
 __pycache__/
 test.db
 /frontend/src/environments
+/backend/src/__pycache__
+/backend/src/auth/__pycache__
+env
 
 # OS generated files #
 ######################
