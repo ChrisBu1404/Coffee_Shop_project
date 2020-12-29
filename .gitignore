@@ -1,8 +1,8 @@
 venv/
 .vscode/
 __pycache__/
-test.db
 /frontend/src/environments
+/frontend/node_modules
 /backend/src/__pycache__
 /backend/src/auth/__pycache__
 env
